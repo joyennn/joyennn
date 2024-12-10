@@ -32,7 +32,6 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.co.kr/citations?user=vqbifI0AAAAJ&hl=ko"
   impactstory      : # URL
   orcid            : # URL
   semantic         : # URL
@@ -73,6 +72,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
+  googlescholar    : "https://scholar.google.co.kr/citations?user=vqbifI0AAAAJ&hl=ko"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
