@@ -12,11 +12,11 @@ Publications
 ------
 **2024**
 * Pragmatic inference of scalar implicature by LLMs. In Proceedings of the Annual Meeting of the Association for Computational Linguistics (Vol. 4, pp. 10-20)  
-Ye-eun Cho and Seong mook Kim
+<u>Ye-eun Cho</u> and Seong mook Kim
 
 **2023**
 * Grammatical illusions in BERT: Attraction effects of subject-verb agreement and reflexive-antecedent dependencies. Linguistic Research, 40(2), 317-352.  
-Ye-eun Cho
+<u>Ye-eun Cho</u>
 
 
 
@@ -31,3 +31,4 @@ Presentations
 * Pragmatic inference of scalar implicature by LLMs. ACL 2024, Bangkok, Thailand. August 11-16, 2024.
 
 * Prompting strategies of Generative AI for Korean pragmatic inference. The 2024 Seoul International Conference on Linguistics (SICOL-2024), Kyunghee University, Seoul, South Korea. August 8-9, 2024.
+
