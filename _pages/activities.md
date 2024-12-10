@@ -3,8 +3,8 @@ permalink: /activities
 title: "Activities"
 author_profile: true
 redirect_from: 
-  - /activities
-  - /activities.md
+  - /activities/
+  - /activities.html
 ---
 
 
